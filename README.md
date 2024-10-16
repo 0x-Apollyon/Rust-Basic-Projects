@@ -9,5 +9,5 @@ Start: 25/7/2024
 [26/7/2024] Day 2: Slacking off eh <br>
 [27/7/2024] Day 3: Rust calculator supporting multiplication, addition, subtraction, division and exponentiation <br>
 <br>
-Strayed off course, restarting the journey Oct 17, 2024
-[17/10/2024] Day 1: Harkirat 6 hour rust marathon
+Strayed off course, restarting the journey Oct 17, 2024 <br>
+[17/10/2024] Day 1: Harkirat 6 hour rust marathon <br>

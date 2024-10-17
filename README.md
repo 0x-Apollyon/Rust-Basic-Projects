@@ -11,3 +11,5 @@ Start: 25/7/2024
 <br>
 Strayed off course, restarting the journey Oct 17, 2024 <br>
 [17/10/2024] Day 1: Harkirat 6 hour rust marathon <br>
+[18/10/2024] Day 2: Harkirat 6 hour rust marathon <br>
+
